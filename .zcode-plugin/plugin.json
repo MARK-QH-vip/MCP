@@ -1,0 +1,8 @@
+{
+  "name": "polaris-memory",
+  "version": "0.1.0",
+  "description": "POLARIS 永久记忆 MCP：给 AI 编程助手装上长期记忆。两级语义召回（值空间排序+反回声室混合读取）、空基线校准 novelty、GDPR 式定向遗忘、损坏自愈。个人用户免费，每月 1000 次搜索额度。",
+  "author": { "name": "POLARIS" },
+  "mcpServers": "./.mcp.json",
+  "skills": "./skills"
+}
